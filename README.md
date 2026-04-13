@@ -50,16 +50,27 @@ Users can read news by category, while admins and editors can manage content eff
 
 ## 📁 Project Structure
 news-portal/
+
 │
+
 ├── client/ # Frontend (React / Next.js)
+
 ├── server/ # Backend (Node.js + Express)
+
 │
+
 ├── models/ # MongoDB Models
+
 ├── routes/ # API Routes
+
 ├── controllers/ # Business logic
+
 │
+
 ├── .env # Environment variables
+
 ├── .gitignore
+
 └── README.md
 
 
